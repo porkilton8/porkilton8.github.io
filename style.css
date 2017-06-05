@@ -27,7 +27,12 @@ p, h1, h2, h3 {
 font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 .bar2{
-	width: 350px;
-	height: 17px;
-	background-color: yellow;
+	width: 100%;
+	height: 1000px;
+	background-color: lightblue;
+}
+.bar3{
+	width: 100%;
+	height: 1000px;
+	background-color: pink;
 }
